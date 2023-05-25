@@ -1,7 +1,5 @@
 # Curso de CSS - Do Básico ao Avançado
 
-![CSS Logo](https://example.com/css-logo.png)
-
 Este repositório contém os materiais e projetos desenvolvidos durante o curso de CSS, abrangendo desde os conceitos básicos até tópicos avançados. Durante o curso, explorei diversas técnicas, propriedades e recursos do CSS para criar estilos e layouts incríveis para páginas da web.
 
 ## Objetivos do Curso
